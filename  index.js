@@ -6,8 +6,8 @@
 // @author       StephenChen
 // @match        *://doc.iocoder.cn/*
 // @grant        none
-// @downloadURL  https://github.com/StephenCMZ/iocoder-hook/blob/main/index.js
-// @updateURL    https://github.com/StephenCMZ/iocoder-hook/blob/main/index.js
+// @downloadURL  https://github.com/StephenCMZ/iocoder-hook/blob/main/%20index.js
+// @updateURL    https://github.com/StephenCMZ/iocoder-hook/blob/main/%20index.js
 // ==/UserScript==
 
 (function () {
